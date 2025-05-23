@@ -15,4 +15,5 @@ function VideoCard(props) {
         </div>
   );
 }
+
 export default VideoCard;
