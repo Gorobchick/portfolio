@@ -1,0 +1,30 @@
+.project-card {
+    background-color: #005400;
+    border: 2px solid #067806;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+}
+
+.project-card h3 {
+    margin: 0;
+    color: #01BC01;
+}
+
+.project-card p {
+    color: #fff;
+}
+
+.project-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-img {
+  width: 30%;
+  margin: 0 auto;
+}
+
+
+
