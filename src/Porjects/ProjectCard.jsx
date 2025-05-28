@@ -7,13 +7,13 @@ function ProjectCard(props) {
     const {img} = props;
   return (
    <div className="project-card">
-          <img className="project-img" src={img} alt="logo" />
-          <h3>{title}</h3>
+      <img className="project-img" src={img} alt="logo" />
+        <h3>{title}</h3>
           <p>{info}</p>
-          <div className="project-button">
-            <button>Перейти</button>
-          </div>
-        </div>
+            <div className="project-button">
+              <button>Перейти</button>
+            </div>
+  </div>
   );
 }
 
